@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087316925273",
+    "project_id": "public-pharmacy",
+    "storage_bucket": "public-pharmacy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087316925273:android:4e67a32f056fd85ab7ca48",
+        "android_client_info": {
+          "package_name": "com.medical.publicpharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087316925273-iega67428fed3vht241ph3g1if1irop4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medical.publicpharmacy",
+            "certificate_hash": "79d9ca87fe855857bc18bae0af6b96dcf9d21d5d"
+          }
+        },
+        {
+          "client_id": "1087316925273-p3i6qaanhr6b0kgks1loehq722dl4lb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWEQqPKrSrwRIFF8FjmYyemZf-rro6VUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087316925273-p3i6qaanhr6b0kgks1loehq722dl4lb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
